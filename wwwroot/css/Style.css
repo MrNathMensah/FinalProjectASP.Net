@@ -1,0 +1,63 @@
+body
+{
+background-image: url('../images/dbc_main_bk.gi');
+padding:0px;
+border:0px;
+margin:0px 0px 0px 0px;
+color: #800080;
+font-weight: normal;
+font-family: Arial, Helvetica, sans-serif, Times New Roman;
+font-size: small;
+}
+
+.wrapper
+{
+width: 973px;
+}
+.top
+{
+width:973px;
+height:28px;
+background-image: url('../images/dbc14_1.gif');
+background-repeat : repeat-x;
+}
+.menu
+{
+width: 973px;
+height: 60px;
+background-color: 000;
+}
+
+.blogo
+{
+width:973px;
+height:103px;
+background-image: url('../images/dbc14.gif');
+}
+
+.main
+{
+width: 973px;
+min-height: 600px;
+background-image:url('../images/dbc14_2.gif');
+background-repeat: repeat-y;
+}
+.lmenu
+{
+width: 211px;
+margin-right:10px;
+min-height: 600px;
+float:left;
+}
+
+.workspace
+{
+width:752px;
+min-height: 600px;
+float:right;
+}
+
+.charles
+{
+
+}
